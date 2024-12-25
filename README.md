@@ -11,6 +11,7 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 ## Habilidades técnicas
+<br>
 ## Educación
 ## Idiomas
 ## ¿Que estoy aprendiendo?
