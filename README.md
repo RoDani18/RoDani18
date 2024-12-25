@@ -2,6 +2,8 @@
 <h1 align="center">Hola, soy Rolvi Danilo Santos Gaitán</a> 👋</h1>
 </div>
 
+<center><img [src="https://i.imgur.com/weNbhGZ.png](https://i.imgur.com/vXwa5tA.jpeg)"></center>
+
 ## Sobre mi
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
@@ -10,6 +12,7 @@
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
+## Certificaciones
 ## Habilidades técnicas
 <br>
 ## Educación
