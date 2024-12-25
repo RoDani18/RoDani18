@@ -52,11 +52,11 @@
 ## Educación
 
 - Ingeniería en Sistemas (cursando último año).
-  <p> <strong> Universidad Mariano Galvez (Plan Sábado) </strong>
-  <p><strong> 2021-Actualidad</strong>
+     <p> <strong> Universidad Mariano Galvez (Plan Sábado) </strong>
+      <p><strong> 2021-Actualidad</strong>
 - Bachiller en ciencias y letras con orientación en computación.
-  <p> <strong>Liceo Compu-Market</strong>
-   <p><strong>2020</strong>
+       <p> <strong>Liceo Compu-Market</strong>
+         <p><strong>2020</strong>
    
 <br>
 
