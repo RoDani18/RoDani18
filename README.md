@@ -5,6 +5,7 @@
 <center><img src="https://i.imgur.com/vXwa5tA.jpeg"></center>
 
 ## Sobre mi
+
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
