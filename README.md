@@ -121,6 +121,9 @@
 ## Otros proyectos
 <br>
 
+## Aficiones
+<br>
+
 ## Contacto
 
 ### ⚙️ &nbsp;GitHub Analytics
