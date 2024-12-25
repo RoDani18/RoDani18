@@ -26,11 +26,17 @@
 
 ## Habilidades técnicas
 <br>
-## Educación
+
 ## Idiomas
+<br>
+
+## Educación
+<br>
+
 ## ¿Que estoy aprendiendo?
-## Experiencia laboral
-## Proyectos *bombitas*
+<br>
+
+## Proyectos 
 <table>
 <tr>
 <td width="50%">
@@ -117,5 +123,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
+
+## Experiencia laboral
+<br>
+
 ## Otros proyectos
+<br>
+
 ## Contacto
