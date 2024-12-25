@@ -12,15 +12,21 @@
 
 ## Certificaciones
 
-- 8 Cursos aprobados de principiante I a intermedios IV de idioma inglés en UMG. (2024)  
-  [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com)
+- 8 Cursos aprobados de principiante I a intermedios IV de idioma inglés en UMG. (2024) [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com)
 
-- Curso aprobado en INTECAP de atención al cliente. (2021)  
-  [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing)
+- Curso aprobado en INTECAP de atención al cliente. (2021) [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing)
 
+- Curso de conceptos básicos de redes. (Cisco). (2024) [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing)
 
+- FCF Core( Fortinet). (2024) [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing)
 
-</a>
+- Curso de direccionamiento de red. (Cisco). (2024)[![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing)
+
+- FCF Selective. (Fortinet). (2024) [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing)
+
+- Internet de las cosas. (Cisco). (2024) [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing)
+
+- Juniper Cloud. (Juniper). (2024) [![Ver](https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing)
 <br>
 
 ## Habilidades técnicas
