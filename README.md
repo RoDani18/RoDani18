@@ -50,7 +50,7 @@
 <br>
 
 ## Educación
-<p>
+
 - Ingeniería en Sistemas (cursando último año).
   <p> <strong> Universidad Mariano Galvez (Plan Sábado) </strong>
   <p><strong> 2021-Actualidad</strong>
