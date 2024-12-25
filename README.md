@@ -11,7 +11,7 @@
 
 ## Certificaciones
 
-- 8 Cursos aprobados de principiante I a intermedios IV de idioma inglés en UMG. (2024) <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+- 🇺🇸 8 Cursos aprobados de principiante I a intermedios IV de idioma inglés en UMG. (2024) <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <br>
 
