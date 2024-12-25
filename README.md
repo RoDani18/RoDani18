@@ -7,6 +7,7 @@
 ## Sobre mi
 
 - 🧑‍🎓 Graduado de Bachillerato en CCLL con orientación en Computación
+- 🏫 Cursando actualmente 9no semestre de ingenieria en sistemas en la Universidad Mariano Galvez de Guatemala los dias sábados. 
 <br>
 
 ## Certificaciones
