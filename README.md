@@ -12,8 +12,8 @@
 
 ## Certificaciones
 
-- 8 Cursos aprobados de principiante I a intermedios IV de idioma inglés en UMG. (2024) <a href="" target="_parent"> <img src="https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black">
-- Curso aprobado en intecap de atención al cliente. (2021) <a href="https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing" target="_parent"> <img src="https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black">
+- 8 Cursos aprobados de principiante I a intermedios IV de idioma inglés en UMG. (2024) <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black">
+- Curso aprobado en intecap de atención al cliente. (2021) <a href="https://drive.google.com/file/d/1GCbaMhVHawPQiKwOG4PBDpjUClrhPK9Q/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Ver-ff9?style=for-the-badge&logo=googledrive&logoColor=black">
 
 </a>
 <br>
