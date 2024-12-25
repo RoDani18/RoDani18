@@ -30,12 +30,25 @@
 <br>
 
 ## Habilidades técnicas
+
+- Lenguajes de Programación: Java, C#, Python
+- Bases de Datos: MySQL, Oracle.
+- Desarrollo Web: HTML, CSS, JavaScript y php.
+- Sistemas Operativos: Linux, Windows Server.
+- Herramientas: Git, VS Code, JIRA, lucidchart.
+- Otros: Excel, Photoshop, soporte técnico.
+- Redes: Packet Tracer
 <br>
 
 ## Idiomas
+
+-  INGLÉS - NIVEL INTERMEDIO
 <br>
 
 ## Educación
+
+- Ingeniería en Sistemas (cursando último año).  Universidad Mariano Galvez (Plan Sábado)| 2021-Actualidad
+- Bachiller en ciencias y letras con orientación en computación.  Liceo Compu-Market | 2020
 <br>
 
 ## ¿Que estoy aprendiendo?
@@ -85,6 +98,13 @@
 <br>
 
 ## Otros proyectos
+<br>
+
+## Habilidades blandas
+- Trabajo en equipo.
+- Resolución de problemas.
+- Liderazgo y comunicación efectiva.
+- Adaptación al cambio
 <br>
 
 ## Aficiones
