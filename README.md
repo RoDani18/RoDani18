@@ -117,12 +117,15 @@
  redes y soporte ténico con metodologias como IRRA
  que mejoraron sus habilidades tecnologicas de
  basicas a intermedio.
-
--  Realice ciertos trabajos referentes a la revisión y
+  - Realice ciertos trabajos referentes a la revisión y
  solución de problemas en los equipos del colegio.
 <br>
 
 ## Otros proyectos
+
+- Realice algunos proyectos grupales durante mi carrera donde participe activamente de dos:
+       - Sistema de hoteleria.
+       - Sistema de restaurante. 
 <br>
 
 ## Habilidades blandas
