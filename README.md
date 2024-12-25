@@ -47,11 +47,18 @@
 
 ## Educación
 
-- Ingeniería en Sistemas (cursando último año).  Universidad Mariano Galvez (Plan Sábado)| 2021-Actualidad
-- Bachiller en ciencias y letras con orientación en computación.  Liceo Compu-Market | 2020
+- Ingeniería en Sistemas (cursando último año).
+   Universidad Mariano Galvez (Plan Sábado)
+   2021-Actualidad
+- Bachiller en ciencias y letras con orientación en computación.
+   Liceo Compu-Market
+   2020
 <br>
 
 ## ¿Que estoy aprendiendo?
+
+- Desarrollo Backend
+- Reforzamiento de temas de redes
 <br>
 
 ## Proyectos 
@@ -73,7 +80,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Sistema de gestión para pizerria</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -81,11 +88,7 @@
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>En este programa <strong>Sistema de gestión para una pizerria</strong> para poder gestionar pedidos, clientes y todo lo referente a una pizerria. Desarrolle el programa con los lenguajes de php, html y css. Utilice herramientas como Vs code y xampp.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -95,6 +98,21 @@
 <br>
 
 ## Experiencia laboral
+
+- Profesor de informatica en Colegio Verbo Sancristobal
+   2023- Actualidad
+  -  Diseñé e implementé un plan de estudios para
+ enseñar habilidades avanzadas en tecnología a
+ aproximadamente 300 estudiantes de secundaria y
+ basicos con lenguajes de programación como c++,
+ java, html y css,  ofimatica, gestion de bases de datos
+ y principios de diseño con photoshop e illustrator,
+ redes y soporte ténico con metodologias como IRRA
+ que mejoraron sus habilidades tecnologicas de
+ basicas a intermedio.
+
+-  Realice ciertos trabajos referentes a la revisión y
+ solución de problemas en los equipos del colegio.
 <br>
 
 ## Otros proyectos
@@ -108,6 +126,10 @@
 <br>
 
 ## Aficiones
+
+- Tocar la guitarra, bajo, bateria y teclado.
+- Fútbol
+- Desarrollo Web
 <br>
 
 ## Contacto
