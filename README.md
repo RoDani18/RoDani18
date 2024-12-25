@@ -144,6 +144,12 @@
 
 ## Contacto
 
+-  <a href="mailto:Rolvidanisantos@gmail.com" target="_blank"> Correo </a>
+-  <a href="https://wa.me/50258469747" target="_blank">![image](https://github.com/user-attachments/assets/ad4300be-45cf-4f2d-b0e7-9a584501c26b)
+ Whatsapp </a>
+-  <a href="http://www.linkedin.com/in/rolvi-danilo-santos-gaitan-santos-962237226" target="_blank"> LinkedIn </a>
+- Dirección: 5ta av. 2-65 zona 6 Villa Nueva, Guatemala, Guatemala
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
