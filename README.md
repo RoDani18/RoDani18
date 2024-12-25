@@ -7,7 +7,11 @@
 ## Sobre mi
 
 - 🧑‍🎓 Graduado de Bachillerato en CCLL con orientación en Computación
-- 🏫 Cursando actualmente 9no semestre de ingenieria en sistemas en la Universidad Mariano Galvez de Guatemala los dias sábados. 
+- 🏫 Cursando actualmente 9no semestre de ingenieria en sistemas en la Universidad Mariano Galvez de Guatemala los dias sábados.
+- Desarrollador Fronted.
+- Gestión de bases de datos en oracle y mysql workbench para realizar consultas, CRUDS. 
+- He realizado algunos trabajos pequeños sobre soporte técnico como limpieza de equipos de computo, formateos, instalación de sistema operativo cuando el dominio del correo no funciona, activaciones de office, cambio de piezas, entre otros.
+- Subneteo de redes e implementación de redes con ip mediante consola. 
 <br>
 
 ## Certificaciones
@@ -46,19 +50,22 @@
 <br>
 
 ## Educación
-
-- Ingeniería en Sistemas (cursando último año).
-   Universidad Mariano Galvez (Plan Sábado)
-   2021-Actualidad
-- Bachiller en ciencias y letras con orientación en computación.
-   Liceo Compu-Market
-   2020
+<p>
+<p>- Ingeniería en Sistemas (cursando último año).
+  <p> Universidad Mariano Galvez (Plan Sábado)
+  <p> 2021-Actualidad
+<p>- Bachiller en ciencias y letras con orientación en computación.
+  <p> Liceo Compu-Market
+   <p>2020
+   
 <br>
 
 ## ¿Que estoy aprendiendo?
 
 - Desarrollo Backend
 - Reforzamiento de temas de redes
+- Desarrollo FullStack
+- Ciberseguridad. 
 <br>
 
 ## Proyectos 
