@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Rolvi Danilo Santos Gaitán</a> 👋</h1>
 </div>
 
-<center><img [src="https://i.imgur.com/vXwa5tA.jpeg]"></center>
+<center><img src="https://i.imgur.com/vXwa5tA.jpeg"></center>
 
 ## Sobre mi
 - ⭐ Github Star ⭐ 
