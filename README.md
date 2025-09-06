@@ -88,10 +88,9 @@
                <br>
 <h3 align="center">Sistema de gestión para pizerria</h3>
 <div align="center">                                       
-<a href="https://github.com/RoDani18/aseguramiento.git" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/RoDani18/aseguramiento.git" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt=""></a>
 <br>
 <p>
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>En este programa <strong>Sistema de gestión para una pizerria</strong> para poder gestionar pedidos, clientes y todo lo referente a una pizerria. Desarrolle el programa con los lenguajes de php, html y css. Utilice herramientas como Vs code y xampp.</p>
 </div>                                                             
