@@ -7,7 +7,7 @@
 ## Sobre mi
 
 - 🧑‍🎓 Graduado de Bachillerato en CCLL con orientación en Computación
-- 🏫 Cursando actualmente 9no semestre de ingenieria en sistemas en la Universidad Mariano Galvez de Guatemala los dias sábados.
+- 🏫 Cursando actualmente 10mo semestre de ingenieria en sistemas en la Universidad Mariano Galvez de Guatemala los dias sábados.
 - Desarrollador Fronted.
 - Gestión de bases de datos en oracle y mysql workbench para realizar consultas, CRUDS. 
 - He realizado algunos trabajos pequeños sobre soporte técnico como limpieza de equipos de computo, formateos, instalación de sistema operativo cuando el dominio del correo no funciona, activaciones de office, cambio de piezas, entre otros.
@@ -72,23 +72,20 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sistema de gestión para UMG o colegios</h3>
+<h3 align="center">Sistema de reconocimento por voz para gestionar pedidos, rutas e inventario con redes neuronales. (VOXIA).</h3>
 <div align="center">
-<a href="https://github.com/RoDani18/aseguramiento.git" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/RoDani18/PG2.git" target="_blank"><img src="" width="400" alt="Proyecto de graduación"></a>
 <p>
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><strong>Gestion escolar </strong> -En este programa utilice lo que es un framework de php que se llama symfony para poder crear las interfaces donde utilice herramientas como el ya mencionado symfony, xampp, visual studio code y lenguajes HTML, css y php.</p>
-</div>
-                                                                                      
+<p><strong>Proyecto de Graduación </strong> -En este programa se busca que el usuario mediante voz pueda consultar inventarios, los clientes gestionar sus pedidos y gestionar las rutas de entrega. El backend fue realizado con Python, las redes neuronales implementadas con tensorflow, el modelo de voz usando VOSK, el frontend fue implementado con react.</p>
+</div>                                                                                  
 </td>
-
 <td width="50%">
                <br>
 <h3 align="center">Sistema de gestión para pizerria</h3>
 <div align="center">                                       
-<a href="https://github.com/RoDani18/aseguramiento.git" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt=""></a>
+<a href="https://github.com/RoDani18/aseguramiento.git" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="">Sistema de pizerria.</a>
 <br>
 <p>
 </a>
@@ -142,17 +139,9 @@
 ## Contacto
 
 -  <a href="mailto:Rolvidanisantos@gmail.com" target="_blank"> Correo </a>
--  <a href="https://wa.me/50258469747" target="_blank">![image](https://github.com/user-attachments/assets/ad4300be-45cf-4f2d-b0e7-9a584501c26b)
+-  <a href="https://wa.me/50258469747" target="_blank">
  Whatsapp </a>
 -  <a href="http://www.linkedin.com/in/rolvi-danilo-santos-gaitan-santos-962237226" target="_blank"> LinkedIn </a>
 - Dirección: 5ta av. 2-65 zona 6 Villa Nueva, Guatemala, Guatemala
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
